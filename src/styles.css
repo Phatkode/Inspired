@@ -1,0 +1,159 @@
+/* You can add global styles to this file, and also import other style files */
+.columnpic{
+  /*  background: url('./assets/mic.jpg') no-repeat;*/
+    width: 100%;
+    opacity: 1.6;
+}
+
+.displayfour{
+	font-size: 25px;
+	line-height: 0;
+	text-decoration:  none;
+}
+
+.display-4{
+	text-shadow: 2px 5px 5px purple;
+}
+
+.padtop{
+	padding-top: 10px;
+}
+
+.btn{
+white-space: wrap;
+}
+
+.btn-danger{
+	opacity: 0.8;
+}
+
+.btn-light{
+	opacity: 0.8;
+}
+
+.btn-outline-danger{
+	opacity: 0.8;
+}
+
+.text-size{
+	font-size: 25px;
+	vertical-align: middle;
+}
+
+.table{
+    table-layout: auto;
+    /*width: 180px; */
+}
+
+body{
+	padding-bottom: 70px;
+	background-image: url("./assets/jayjay.jpg");
+	background-size:  1300px 1300px;
+}
+
+.nopad{
+	padding-right: 0;
+	padding-left: 0;
+	padding-top: 0;
+	padding-bottom: 0;
+	margin-bottom: 0;
+	margin-top: 0;
+	margin-left: 0;
+	margin-right: 0;
+	border-left: 0;
+	border-right: 0;
+	border-top: 0;
+	border-bottom: 0;
+
+}
+
+
+
+/*.hidden {
+    display: none;
+}
+    
+.display:hover + div {
+    display: block;
+}*/
+
+
+/*
+.columntrans {
+    background: rgba(76, 175, 80, 0.1);
+}
+
+.columntranstoo {
+    background: rgba(76, 175, 80, 0.3);
+}
+
+.columntransthree {
+    background: rgba(76, 175, 80, 0.6);
+}
+*/
+
+.columntrans {
+    opacity: 0.1;
+   
+}
+
+.columntranstoo {
+    opacity: 0.3;
+}
+
+.columntransthree {
+    opacity: 0.6;
+}
+
+
+.btn{
+	border-radius: 40px 10px;
+}
+
+
+
+
+.oleoScript {
+  font: 80 17px/1.3 'Oleo Script', Helvetica, sans-serif;
+  /*color: beige;*/
+  text-align: center;
+  padding-top: 3px;
+/*  text-shadow: 1px 1px 0px #black, 4px 4px 0px rgba(0,0,0,0.15);*/
+}
+
+.cursor-pointer { cursor: pointer; }
+
+.cardpicture{
+	max-height: 100px;
+	position: relative;
+/*    max-width: 100%;*/
+ /*   height: auto;*/
+/*    display: block;*/
+    /*margin: 0 auto;*/
+/*    transform: translateY(-50%); *//* add this line to move your picture 50% up*/
+}
+
+.panel{
+	background-color: transparent;
+}
+
+.card{
+	background-color: transparent;
+	border: none;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-top: 10px;
+	border-radius: 40px 10px;
+	}
+
+.picrounded{
+border-radius: 40px 10px;
+}
+
+.list-group-item{
+/*	background-color: ;*/
+}
+.btn-outline-warning{ cursor: pointer; }
+.btn-outline-secondary{ cursor: pointer; }
+.btn-outline-success{ cursor: pointer; }
+.btn-outline-danger{ cursor: pointer; }
